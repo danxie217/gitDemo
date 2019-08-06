@@ -23,3 +23,12 @@ git tag  查看标签
 git tag 标签  添加标签
 
 git push origin 标签
+
+git branch 分支名
+
+git branch  查看分支
+
+git checkout 分支名 切换分支  
+git merge 分支名
+
+git branch -d 分支名 删除分支
