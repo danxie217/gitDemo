@@ -17,3 +17,9 @@ git commit -m ‘’
 ssh-keygen -t tsa -C "18627824375@163.com"
 
 ssh -T git@github.com 检测是否连接上github
+
+git tag  查看标签
+
+git tag 标签  添加标签
+
+git push origin 标签
