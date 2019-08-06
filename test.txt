@@ -1,1 +1,19 @@
-大大大
+只add 然后回退
+git reset HEAD xxx(文件名)
+
+git checkout -- 文件名
+
+commit 后回退
+git log 
+
+git reset --head + log的版本号
+
+删除文件 后
+git rm 文件名 
+
+git commit -m ‘’
+
+ 创建ssr密匙
+ssh-keygen -t tsa -C "18627824375@163.com"
+
+ssh -T git@github.com 检测是否连接上github
